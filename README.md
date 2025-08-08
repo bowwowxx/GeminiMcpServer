@@ -27,7 +27,6 @@ git clone git@github.com:bowwowxx/GeminiMcpServer.git
 cd GeminiMcpServer
 npm install
 ```
-
 **建立 Google API Key：**
 1. 前往 [Google AI Studio](https://makersuite.google.com/app/apikey)
 2. 建立新的 API 金鑰
@@ -51,6 +50,8 @@ npm start
 npx tsx testapi.js
 ```
 此測試會使用 Gemini 2 的實驗性影像生成 API 建立圖片。
+
+![mole](https://raw.githubusercontent.com/bowwowxx/GeminiMcpServer/main/02.png) 
 
 ---
 
