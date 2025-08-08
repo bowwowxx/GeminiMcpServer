@@ -1,5 +1,5 @@
 {
-  "name": "gemini-mcp-server",
+  "name": "GeminiMcpServer",
   "version": "0.0.1",
   "description": "MCP server for Gemini image generation",
   "license": "MIT",
