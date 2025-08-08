@@ -2,7 +2,7 @@
 
 **GeminiMcpServer** 是一個 **Model Context Protocol (MCP)** 伺服器，可將 **LM Studio**（或其他支援 MCP 的客戶端）與 **Google Gemini API** 無縫連接，用於影像生成與多模態任務處理。
 
-![mole](https://raw.githubusercontent.com/bowwowxx/GeminiMcpServer/main/01.png) 
+![mole](https://raw.githubusercontent.com/bowwowxx/GeminiMcpServer/main/03.png) 
 
 ---
 
@@ -84,5 +84,5 @@ npx tsx testapi.js
   }
 }
 ```
-
+![mole](https://raw.githubusercontent.com/bowwowxx/GeminiMcpServer/main/01.png) 
 
